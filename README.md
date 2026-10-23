@@ -21,5 +21,6 @@ Voici la liste des outils et commandes intégrés dans "NAS SSH Inspector" :
 * **Gestion automatisée des privilèges (`sudo -S`)** : Sécurisation de l'exécution des commandes bas niveau nécessitant des droits administrateur, avec injection transparente du mot de passe.
 * **Console de sortie dédiée** : Fenêtre de type terminal intégrée avec coloration syntaxique (fond sombre, texte vert) et retour visuel des erreurs SSH filtrées.
 
+Testé sur un NAS Ugreen DXP6800 Plus & UGOS PRO (v1.20).
 
 <img width="846" height="698" alt="image" src="https://github.com/user-attachments/assets/d3aa9947-83e0-45cd-a8ed-dfff63cce9ba" />
